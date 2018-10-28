@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.jpg</file>
+        <file>CENTURY_GOTHIC.TTF</file>
+    </qresource>
+</RCC>
